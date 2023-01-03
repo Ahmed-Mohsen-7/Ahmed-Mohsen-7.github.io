@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ahmedmohsen022@gmail.com](mailto:ahmedmohsen022@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+79655928438](tel:+79655928438)
 
 ---
 
 ## Social
 
 1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+2. [LinkedIn](#) 

@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Ahmed M Ali
+url: "https://ahmedali.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://ahmedali.github.io"
+footer_text: "Page design by Ahmed Ali"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
