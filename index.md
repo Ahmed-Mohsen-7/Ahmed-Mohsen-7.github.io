@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
- <img class="profile-picture" src="pp.jpg"> 
+ <img class="profile-picture" src="pp.jpg" width="260px" height="300px"> 
 
 Hi! My name is Ahmed M Ali and I am 2nd year master student in Robotics and Computer Vision program at Innopolis University. I am enthusiastic about robotics especially motion planning module.  
 
