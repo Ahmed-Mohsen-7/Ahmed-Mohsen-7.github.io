@@ -1,6 +1,6 @@
 title: Ahmed M Ali
 url: "https://ahmedali.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://ahmedali.github.io"
-footer_text: "Page design by Ahmed Ali"
+footer_text: "Page design by Ankit Sultana and Ahmed Ali"
 
 sass:
     style: compressed
