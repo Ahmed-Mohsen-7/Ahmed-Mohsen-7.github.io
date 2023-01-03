@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://ahmedali.github.io"
+footer_url: "https://github.com/ahmed-mohsen-7"
 footer_text: "Page design by Ankit Sultana and Ahmed Ali"
 
 sass:
@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Resume.pdf"
  - name: "Contact"
    link: "contact"
