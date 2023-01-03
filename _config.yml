@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ahmed-mohsen-7"
+footer_url: "https://github.com/Ahmed-Mohsen-7"
 footer_text: "Page design by Ankit Sultana and Ahmed Ali"
 
 sass:
