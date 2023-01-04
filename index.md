@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
- <img class="profile-picture" src="pp.jpg" > 
+ <img class="profile-picture" src="pp.jpg" width="200" height="300"> 
 
 Hi! My name is Ahmed M Ali and I am 2nd year master student in Robotics and Computer Vision program at Innopolis University. I am enthusiastic about robotics especially motion planning module.  Currently, I am working on my master thesis to provide a more efficient algorithm to estimate free space for optimization based planners. Mainly, I am enhancing state of the art methods such as [convex decomp](https://ieeexplore.ieee.org/document/7839930) to incorporate larger areas as free space while maintaining low computational time. Such approach can lead to 
 
