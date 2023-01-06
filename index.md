@@ -10,7 +10,7 @@ Hi! My name is Ahmed M Ali and I am 2nd year master student in Robotics and Comp
 
 
 ## Research Interest
-My research interest includes but are not limited to:
+My research interest includes but are not limited to: <br/>
 *   Motion Planning of mobile robots
 *   Convex Optimization
 *   Robot Control
