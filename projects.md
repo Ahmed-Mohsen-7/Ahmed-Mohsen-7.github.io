@@ -30,17 +30,3 @@ My research interest includes but are not limited to:
 * **Apr 2021**: Got accepted for a full scholarship at Innopolis University in Russia.
 * **Mar 2021**: Got accepted in Joint Master Degree in Mechatronic Engineering (EU4M).
 * **Jan 2020**: Started an exchange program at Riga Technical Univeristy in Latvia as part of Erasmus+ program.
-
-## Referees
-* Prof. Igor Gaponov <br />
-    Associate Professor of Robotics and AI, University of College London. <br />
-    i.gaponov@ucl.ac.uk
-
-*  Prof. Mirko Farina <br />
-    Associate Professor of Philosophy and Computer Science, Innopolis University. <br /> 
-    m.farina@innopolis.ru 
-
-* Eng **Geesara Prathap** <br />
-   Senior Robotics Engineer. <br />
-   g.mudiyanselage@innopolis.ru 
-
