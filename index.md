@@ -32,11 +32,11 @@ My research interest includes but are not limited to:
 * **Jan 2020**: Started an exchange program at Riga Technical Univeristy in Latvia as part of Erasmus+ program.
 
 ## Referees
-* Prof. Igor Gaponov <br />
+* Prof. **Igor Gaponov** <br />
     Associate Professor of Robotics and AI, University of College London. <br />
     i.gaponov@ucl.ac.uk
 
-*  Prof. Mirko Farina <br />
+*  Prof. **Mirko Farina** <br />
     Associate Professor of Philosophy and Computer Science, Innopolis University. <br /> 
     m.farina@innopolis.ru 
 
