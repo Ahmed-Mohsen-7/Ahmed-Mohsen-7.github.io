@@ -14,6 +14,7 @@ My research interest includes but are not limited to: <br/>
 *   Motion Planning of mobile robots
 *   Convex Optimization
 *   Robot Control
+*   Object detection
 
 ## Publications
 
@@ -24,8 +25,9 @@ My research interest includes but are not limited to: <br/>
 
 
 ## News
-* **May 2022**: started a researcher internship at Innopolis University
-* **Aug 2021**: started master of robotics and computer vision at Innopolis UNviersity
+* **Jan 2023**:     Honored by IU for merit academic achievement.
+* **May 2022**: started a researcher internship at Innopolis University.
+* **Aug 2021**: started master of robotics and computer vision at Innopolis UNviersity.
 * **Aug 2021**: Got accepted for a full scholarship at university of Klagenfurt in Austria.
 * **Apr 2021**: Got accepted for a full scholarship at Innopolis University in Russia.
 * **Mar 2021**: Got accepted in Joint Master Degree in Mechatronic Engineering (EU4M).
