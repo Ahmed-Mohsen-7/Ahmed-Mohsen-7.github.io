@@ -6,7 +6,7 @@ layout: default
 
  <img class="profile-picture" src="pp.jpg" width="260px" height="300px"> 
 
-Hi! My name is Ahmed M Ali and I Robotics & AI engineer at Avemoy. I am enthusiastic about robotics especially autonomous drones.  
+Hi! My name is Ahmed M Ali and I am currently working as Robotics & AI engineer at Avemoy. I am enthusiastic about robotics especially autonomous drones.  
 
 ## Technical Interest
 My research interest includes but are not limited to: <br/>
