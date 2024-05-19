@@ -6,12 +6,11 @@ layout: default
 
  <img class="profile-picture" src="pp.jpg" width="260px" height="300px"> 
 
-Hi! My name is Ahmed M Ali and I am 2nd year master student in Robotics and Computer Vision program at Innopolis University. I am enthusiastic about robotics especially motion planning module.  Currently, I am working on my master thesis to provide a more efficient algorithm to estimate free space for optimization based planners. Mainly, I am enhancing state of the art methods such as [convex decomp](https://ieeexplore.ieee.org/document/7839930) to incorporate larger areas of free space while maintaining low computational time. Such approach can lead to reaching optimal path in short time intervals. 
+Hi! My name is Ahmed M Ali and I Robotics & AI engineer at Avemoy. I am enthusiastic about robotics especially autonomous drones.  
 
-
-## Research Interest
+## Technical Interest
 My research interest includes but are not limited to: <br/>
-*   Motion Planning of mobile robots
+*   Motion Planning 
 *   Convex Optimization
 *   Robot Control
 *   Object detection
@@ -25,7 +24,10 @@ My research interest includes but are not limited to: <br/>
 
 
 ## News
-* **Jan 2023**:     Honored by IU for merit academic achievement.
+
+* **Jul 2023**: Starting working at Avemoy as Software & AI engineer
+* **Jul 2023**: Defended my master thesis and graduated with high honor from Innopolis University.
+* **Jan 2023**: Honored by IU for merit academic achievement.
 * **May 2022**: started a researcher internship at Innopolis University.
 * **Aug 2021**: started master of robotics and computer vision at Innopolis UNviersity.
 * **Aug 2021**: Got accepted for a full scholarship at university of Klagenfurt in Austria.
@@ -33,16 +35,4 @@ My research interest includes but are not limited to: <br/>
 * **Mar 2021**: Got accepted in Joint Master Degree in Mechatronic Engineering (EU4M).
 * **Jan 2020**: Started an exchange program at Riga Technical Univeristy in Latvia as part of Erasmus+ program.
 
-## Referees
-* Prof. **Igor Gaponov** <br />
-    Associate Professor of Robotics and AI, University of College London. <br />
-    i.gaponov@ucl.ac.uk
-
-*  Prof. **Mirko Farina** <br />
-    Associate Professor of Philosophy and Computer Science, Innopolis University. <br /> 
-    m.farina@innopolis.ru 
-
-* Eng **Geesara Prathap** <br />
-   Senior Robotics Engineer. <br />
-   g.mudiyanselage@innopolis.ru 
 
